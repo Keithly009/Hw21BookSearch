@@ -1,8 +1,10 @@
 # Book Search Engine Starter Code
 
 # Deployed link 
+https://dashboard.heroku.com/apps/hidden-lake-16024
 
 # Repo Link: 
+https://github.com/Keithly009/Hw21BookSearch
 
 # Description: 
 A basic application that allows the user to search up, add and save books to a personal list when they are logged in. 
